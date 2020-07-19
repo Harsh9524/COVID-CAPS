@@ -121,7 +121,7 @@ class Capsule(Layer):
 
 
 
-batch_size = 16  
+batch_size = 2  
 num_classes = 2
 epochs = 100     
 
